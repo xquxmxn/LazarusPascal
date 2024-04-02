@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiZ:\Desktop\Lazarus\Automaten Lazarus\lib\x86_64-win64&quot; &quot;-FuZ:\Desktop\Lazarus\Automaten Lazarus\&quot; &quot;-FUZ:\Desktop\Lazarus\Automaten Lazarus\lib\x86_64-win64\&quot; &quot;-FEZ:\Desktop\Lazarus\Automaten Lazarus\&quot; &quot;-oZ:\Desktop\Lazarus\Automaten Lazarus\Automaten.exe&quot; Automaten.lpr"/>
+</CONFIG>
