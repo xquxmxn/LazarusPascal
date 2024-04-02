@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="27"/>
+        <CursorPos X="26" Y="44"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="20" Column="62" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="38" Column="14" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="40" Column="13" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="38" Column="14" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="20" Column="84" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="38" Column="14" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="20" Column="64" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="26" Column="32" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="16" Column="31" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="15" Column="11" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="45" Column="32" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="20" Column="21" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="39" Column="10" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="29" Column="25" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="28" Column="17" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="23" Column="8" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="21" Column="14" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="18" Column="26" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="21" Column="9" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="25" Column="21" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="38" Column="45" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="24" Column="16" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="28" Column="15" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="38" Column="36" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="48" Column="14" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="34" Column="20" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="36" Column="10" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="49" Column="28" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="39" Column="16" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="SuchenMalAnders.lpr"/>
+        <Caret Line="48" Column="23" TopLine="31"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
