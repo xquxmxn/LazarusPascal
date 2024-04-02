@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="sprachen.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="39"/>
+        <CursorPos X="31" Y="53"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="14" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="13" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="9" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="24" Column="34" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="25" Column="4" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="23" Column="11" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="25" Column="17" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="27" Column="23" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="18" Column="12" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="49" Column="33" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="50" Column="21" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="48" Column="33" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="42" Column="19" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="50" Column="11" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="42" Column="36" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="51" Column="17" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="54" Column="20" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="48" Column="42" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="49" Column="19" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="48" Column="24" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="8" Column="16" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="53" Column="20" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="42" Column="53" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="21" Column="26" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="48" Column="8" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="47" Column="13" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="46" Column="19" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="49" Column="8" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="46" Column="11" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="sprachen.lpr"/>
+        <Caret Line="50" Column="96" TopLine="39"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
